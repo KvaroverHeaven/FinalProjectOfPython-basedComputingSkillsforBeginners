@@ -1,0 +1,7 @@
+*.html
+*.pdf
+*.pptx
+
+Code/__pycache__/
+
+Code/.vscode/
